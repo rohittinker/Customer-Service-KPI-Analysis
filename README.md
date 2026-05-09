@@ -1,3 +1,4 @@
+<img width="707" height="354" alt="Dashboard Image" src="https://github.com/user-attachments/assets/f9846964-8601-495b-80c7-df3e0d0af966" />
 ## 📞 Call Centre Performance Analytics Dashboard
 ### 📝 Project Overview
     This project involves the analysis of a dataset containing 1,000+ customer care records. The goal was to transform raw operational data into actionable insights  regarding agent performance, customer satisfaction, and revenue trends using Excel 2019.
