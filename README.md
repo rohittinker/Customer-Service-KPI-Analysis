@@ -1,6 +1,6 @@
 ## 📞 Call Centre Performance Analytics Dashboard
 ### 📝 Project Overview
-    This project involves the analysis of a dataset containing 1,000+ customer care records. The goal was to transform raw operational data into actionable insights            regarding agent performance, customer satisfaction, and revenue trends using Excel 2019.
+    This project involves the analysis of a dataset containing 1,000+ customer care records. The goal was to transform raw operational data into actionable insights  regarding agent performance, customer satisfaction, and revenue           trends using Excel 2019.
 
 ### 📊 Dashboard Preview
 ### 🚀 Key Insights & KPIs
